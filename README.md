@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.com/shubhamv1436/docker-ubuntu1804-ansible.svg?branch=master)](https://travis-ci.com/shubhamv1436/docker-ubuntu1804-ansible)  [![Docker Automated build](https://img.shields.io/docker/cloud/automated/shubhamv1436/docker-ubuntu1804-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/shubhamv1436/docker-ubuntu1804-ansible)
 [![Docker Build Status](https://img.shields.io/docker/cloud/build/shubhamv1436/docker-ubuntu1804-ansible)](https://hub.docker.com/r/shubhamv1436/docker-ubuntu1804-ansible/builds)
 
-Ubuntu 18.08 LTS Docker container for Ansible testing.
+Ubuntu 18.04 LTS Docker container for Ansible testing.
 
 ## Tags
 
